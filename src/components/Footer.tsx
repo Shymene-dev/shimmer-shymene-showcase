@@ -12,8 +12,10 @@ const Footer = () => {
               Shymène
             </div>
             <p className="text-gray-400 mb-4">
-              Chargée de communication digitale & créatrice visuelle passionnée 
-              par l'innovation et la créativité.
+              Chargée de communication digitale Chargée de communication digitale au parcours pluridisciplinaire
+
+
+
             </p>
             <div className="text-sm text-gray-500">
               📍 Port-Gentil, Gabon
@@ -40,6 +42,7 @@ const Footer = () => {
               <li>Communication Digitale</li>
               <li>UI/UX Design</li>
               <li>Création de Contenu</li>
+              <li>Comptabilité et gestion administrative</li>
             </ul>
           </div>
         </div>

@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { Mail, Phone } from 'lucide-react';
 
@@ -57,7 +56,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <div className="font-medium">Téléphone</div>
-                    <div className="text-gray-600">+241 XX XX XX XX</div>
+                    <div className="text-gray-600">062 67 39 87</div>
                   </div>
                 </div>
                 <div className="flex items-center space-x-4">
